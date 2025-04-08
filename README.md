@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @baolhps38302
-- 👀 I’m interested in Data Analist
-- 🌱 My major is Data Processing
-- 💞️ I'm looking to collaborating on python projects
-- 📫 Cách để liên hệ với tôi: baolhps38302@fpt.edu.vn
-- 😄 Pronouns: He/him 
-- ⚡ Thông tin thú vị: Fun fact: compound with -N is deemed to explode
+👋 tôi tên là Lê Hoàng Bảo, sinh ra và lớn lên ở Bình Thuận. Là dân sống gần biển sở thích của tôi là đi biển. Tôi có đam mê về máy tính từ nhỏ và ngành tôi theo học là ngành Xử lý dữ liệu tại trường FPT Polytechnic.
+👀 Tôi có:
+# Mục tiêu:
+- Trở thành một Data Analyst.
+# Kỹ năng:
+1. python (pandas, numpy, matplot, etc)
+2. Tableau
+3. Power BI
+4. Office Word, Excel.
+# Liên hệ: 
+📫 baolhps38302@fpt.edu.vn
+# Thông tin thú vị: Fun fact: 
+⚡ Hợp chất có gốc -N thường phát 
 
 <!---
-Xezied/Xezied is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Good Bye
 --->
