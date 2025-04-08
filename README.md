@@ -11,8 +11,7 @@
 📫 baolhps38302@fpt.edu.vn
 linked: www.linkedin.com/in/b063581aa
 # Thông tin thú vị: Fun fact: 
-⚡ Hợp chất có gốc -N thường phát 
-
+⚡ Hợp chất có gốc -N thường phát nổ.
 <!---
 Good Bye!
 --->
