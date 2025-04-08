@@ -14,5 +14,5 @@ linked: www.linkedin.com/in/b063581aa
 ⚡ Hợp chất có gốc -N thường phát 
 
 <!---
-Good Bye
+Good Bye!
 --->
