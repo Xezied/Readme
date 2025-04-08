@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baolhps38302
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analist
 - 🌱 My major is Data Processing
 - 💞️ I'm looking to collaborating on python projects
 - 📫 Cách để liên hệ với tôi: baolhps38302@fpt.edu.vn
